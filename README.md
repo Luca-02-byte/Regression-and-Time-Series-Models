@@ -1,4 +1,4 @@
-# Regression-and-Time-Series-Models# Regression and Time Series Models: Group Homeworks
+# Regression-and-Time-Series-Models
 
 *Regression and Time Series Models* course projects, using Python.
 
